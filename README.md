@@ -1,12 +1,61 @@
-# React + Vite
+# PopX - Modern React Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![PopX Demo](https://67ddbe439e50f12114aa7dff--lustrous-pasca-94a17f.netlify.app/)  
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+A sleek and responsive mobile app interface built with React, featuring seamless navigation, form validation, and smooth animations.
 
-## Expanding the ESLint configuration
+## ✨ Features
+- **4 Interactive Pages**:
+  - 🏠 Landing Page
+  - 📝 Create Account Page
+  - 🔑 Login Page
+  - 👤 Account Settings Page
+- **Modern UI Design**:
+  - Clean typography with Rubik font
+  - Consistent color scheme (#6C25FF primary color)
+  - Mobile-first responsive layout
+- **Form Validation**:
+  - Real-time error handling
+  - Required field indicators
+  - Email/phone format validation
+- **Animations**:
+  - Page transition animations
+  - Input field focus effects
+  - Button hover/click animations
+- **Routing**:
+  - Protected navigation flow
+  - Seamless page transitions
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠 Technologies Used
+- ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+- ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+- ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+- ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
+- ![React Spring](https://img.shields.io/badge/React_Spring-00C7B7?style=for-the-badge)
+
+## Installation
+
+# Clone repository
+-git clone https://github.com/your-username/popx-react-app.git
+
+# Navigate to project
+-cd popx-react-app
+
+# Install dependencies
+-npm install
+
+# Start development server
+-npm run dev
+
+
+
+Account Page
+Profile Section:
+
+Editable profile picture
+
+Display name and email
+
+Logout Button: Returns to landing page
+

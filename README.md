@@ -1,8 +1,5 @@
 # PopX - Modern React Application
 
-![PopX Demo](https://67ddbe439e50f12114aa7dff--lustrous-pasca-94a17f.netlify.app/)  
-
-
 A sleek and responsive mobile app interface built with React, featuring seamless navigation, form validation, and smooth animations.
 
 ## ✨ Features

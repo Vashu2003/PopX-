@@ -45,14 +45,3 @@ A sleek and responsive mobile app interface built with React, featuring seamless
 # Start development server
 -npm run dev
 
-
-
-Account Page
-Profile Section:
-
-Editable profile picture
-
-Display name and email
-
-Logout Button: Returns to landing page
-
